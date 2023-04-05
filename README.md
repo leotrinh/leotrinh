@@ -16,6 +16,9 @@
 
 ## Connect with me  
 <div align="center">
+<a href="https://people.sap.com/tinhtd" target="_blank">
+<img src=https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg alt=SAP style="margin-bottom: 5px;" height="26px" />
+</a>
 <a href="https://github.com/leotrinh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
