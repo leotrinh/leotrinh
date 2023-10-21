@@ -6,10 +6,9 @@
 ### <div align="center">I'm LEO, a Senior Full Stack Engineer👨‍💻</div>  
   
 
-- 🚀 Talk to me about anything related to technologies, I am always open to sharing, so if you are interested in exchanging knowledge and experiences then let’s get in touch.
-  
+- 🚀 Talk to me about anything related to technology. I am always open to sharing, so let's get in touch if you want to exchange knowledge and experiences.
 
-- ⚡ Soft Skills: Quick adaptive spirit, quick learning, eager to learn and share knowledge with each others, excellent at: risk management, problem-solving skills
+- ⚡ Soft Skills: Quick adaptive spirit, quick learning, eager to learn and share knowledge with each other, excellent at risk management, problem-solving skills
 
 <br/>  
 
