@@ -1,11 +1,13 @@
 <div align="center">
+  <h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋+I'm+LEO+👨‍💻;Welcome+to+my+house" alt="Typing SVG" /></a>
+</h1>
+</div>  
+
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20always%20open%20to%20sharing&center=true&width=450&height=45" align="center" style="width: 100%" />
 </div>  
   
-
-### <div align="center">I'm LEO, a Senior Full Stack Engineer👨‍💻</div>  
-  
-
 - 🚀 Talk to me about anything related to technology. I am always open to sharing, so let's get in touch if you want to exchange knowledge and experiences.
 
 - ⚡ Soft Skills: Quick adaptive spirit, quick learning, eager to learn and share knowledge with each other, excellent at risk management, problem-solving skills
