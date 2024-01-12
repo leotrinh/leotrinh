@@ -41,6 +41,9 @@
 ## Review cửa hàng - đánh giá cửa hàng
 
 <div align="center">
+  <a href="https://reviewcuahang.info" target="_blank">
+  <img src="https://reviewcuahang.info/public/reviewcuahang.info.png" alt="Review cửa hàng - đánh giá cửa hàng" loading="lazy" title="Review cửa hàng - đánh giá cửa hàng">
+  </a>
 <a href="https://play.google.com/store/apps/details?id=leo.t2ds.reviewcuahang" target="_blank">
 <img src="https://reviewcuahang.info/images/play-store.svg" alt="play-store" loading="lazy" width="150px" title="play-store">
 </a>
