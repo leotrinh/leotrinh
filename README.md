@@ -36,21 +36,6 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
- <br/> 
- 
-## Review cửa hàng - đánh giá cửa hàng
-
-<div align="center">
-  <a href="https://reviewcuahang.info" target="_blank">
-  <img src="https://reviewcuahang.info/public/reviewcuahang.info.png" alt="Review cửa hàng - đánh giá cửa hàng" loading="lazy" title="Review cửa hàng - đánh giá cửa hàng">
-  </a>
-<a href="https://play.google.com/store/apps/details?id=leo.t2ds.reviewcuahang" target="_blank">
-<img src="https://reviewcuahang.info/images/play-store.svg" alt="play-store" loading="lazy" width="150px" title="play-store">
-</a>
-  <a href="https://chrome.google.com/webstore/detail/review-c%E1%BB%ADa-h%C3%A0ng/ebciaalkdcgdenojicdofkgonehgeepp/" target="_blank">
-<img src="https://reviewcuahang.info/images/chrome-ext.png" alt="chrome-ext" loading="lazy" width="200px" title="chrome-ext">
-</a>
-</div>  
 <br/>  
 
 ## SAP Life & Friends Community
@@ -58,7 +43,7 @@
 <div align="center">
 
   <a href="https://saplife.org" target="_blank">
-<img src="https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://go1.day/saplife" alt="chrome-ext" loading="lazy" width="200px" title="chrome-ext">
+<img src="https://reviewcuahang.info/images/chrome-ext.png" alt="chrome-ext" loading="lazy" width="200px" title="chrome-ext">
 </a>
 </div>  
 <br/>  
