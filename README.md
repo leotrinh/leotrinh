@@ -43,7 +43,7 @@
 <div align="center">
 
   <a href="https://saplife.org" target="_blank">
-<img src="https://reviewcuahang.info/images/chrome-ext.png" alt="chrome-ext" loading="lazy" width="200px" title="chrome-ext">
+<img src="https://saplife.org/assets/sap-logo-tvJhDvSy.png" alt="chrome-ext" loading="lazy" width="200px" title="chrome-ext">
 </a>
 </div>  
 <br/>  
